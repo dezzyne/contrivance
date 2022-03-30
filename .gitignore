@@ -1,4 +1,5 @@
 /target
 
-# MacOS
+# File system
 .DS_Store
+desktop.ini
