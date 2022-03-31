@@ -10,7 +10,7 @@ TBD
 
 TBD
 
-### Prerequisites 
+### Prerequisites
 
 TBD
 
@@ -33,6 +33,6 @@ TBD
 
 ## License
 
-Copyright © 2020 - Present, [The Dezzyne Team and the repo's Contributors](https://github.com/dezzyne/contrivance/graphs/contributors).
+Copyright © 2020 - Present, [The Dezzyne Team and the repo's contributors](https://github.com/dezzyne/contrivance/graphs/contributors).
 
-This project is dual licensed with the [MIT](https://github.com/dezzyne/contrivance/docs/LICENSE-MIT) and [APACHE 2.0](https://github.com/dezzyne/contrivance/docs/LICENSE-APACHE) licenses.
+This project is dual licensed with the [MIT](https://github.com/dezzyne/contrivance/LICENSE-MIT) and [APACHE 2.0](https://github.com/dezzyne/contrivance/LICENSE-APACHE) licenses.
